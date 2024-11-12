@@ -92,6 +92,36 @@
     padding: 15px;
 }
 
+#side ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    width: 200px;
+    background-color: #234f00;
+    position: relative;
+    left: 180px;
+    top: 330px;
+    opacity: 0.7;
+    filter: alpha(opacity=70);
+}
+
+#side li a {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-family: Vardana, Geneva, arial, sans-serif;
+    font-weight: 400;
+    padding: 15px;
+}
+
+/* Change the link color on hover */
+#side li a:hover {
+    background-color: #67a71c;
+    color: black;
+    transition: all 0.40s;
+}
+
 #top2 {
     list-style-type: none;
     margin: 0;
@@ -115,6 +145,36 @@
     padding: 15px;
 }
 
+#side2 ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    width: 200px;
+    background-color: #234f00;
+    position: relative;
+    left: 180px;
+    top: 330px;
+    opacity: 0.7;
+    filter: alpha(opacity=70);
+}
+
+#side2 li a {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-family: Vardana, Geneva, arial, sans-serif;
+    font-weight: 400;
+    padding: 15px;
+}
+
+/* Change the link color on hover */
+#side2 li a:hover {
+    background-color: #67a71c;
+    color: black;
+    transition: all 0.40s;
+}
+
 #top3 {
     list-style-type: none;
     margin: 0;
@@ -136,6 +196,36 @@
     font-family: Vardana, Geneva, arial, sans-serif;
     font-weight: 400;
     padding: 15px;
+}
+
+#side3 ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    width: 200px;
+    background-color: #234f00;
+    position: relative;
+    left: 180px;
+    top: 330px;
+    opacity: 0.7;
+    filter: alpha(opacity=70);
+}
+
+#side3 li a {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-family: Vardana, Geneva, arial, sans-serif;
+    font-weight: 400;
+    padding: 15px;
+}
+
+/* Change the link color on hover */
+#side3 li a:hover {
+    background-color: #67a71c;
+    color: black;
+    transition: all 0.40s;
 }
 
 #text {
