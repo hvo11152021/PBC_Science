@@ -1,5 +1,5 @@
 # PBC_Science
- A static biology practice website. AS91357 Project
+ A static biology practice website. AS91357 Project. Hosted by AWS -> <a href="https://main.d3ewe718aubyci.amplifyapp.com/">PBC_Science</a>
 ## Project Overview
  This prototype is a website designed for grade 12 biology students to enhance their learning experience and track their progress throughout the academic year. The primary client is Dr. Tyrell, a Biology teacher at Kaikorai Valley College. The website will serve as an alternative to Google Classroom, offering more customization and flexibility for both students and the teacher.
 
@@ -18,3 +18,9 @@
 ## Goals
  Create a user-friendly interface for both students and the teacher.
  Include additional study resources to support independent learning.
+## Development
+<img src="progress_snapshots/Capture 1.PNG">
+<img src="progress_snapshots/Capture 2.PNG">
+<img src="progress_snapshots/Capture 4.PNG">
+<img src="progress_snapshots/Capture 5.PNG">
+<img src="progress_snapshots/Capture 6.PNG">
